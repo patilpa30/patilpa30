@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4EF2D2&center=true&vCenter=true&width=450&lines=Software+Engineer+in+the+Making;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </p>
 
----
-
 ### 💫 About Me
 I am a passionate learning enthusiast and an aspiring engineer who's always up for new challenges and scaling up. I focus on core computer science fundamentals, building optimized logic, and writing safer, cleaner code.
 
@@ -40,8 +38,8 @@ I am a passionate learning enthusiast and an aspiring engineer who's always up f
 
 | Platform | Profile Link | Target / Level |
 | :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /> **LeetCode** | [Visit My Profile](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/) | **Medium** Solver & Optimizing Complexities |
-| <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=GeeksforGeeks&logoColor=white" /> **GeeksforGeeks** | [Visit My Profile](https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/) | Concept Building & Core Practice |
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" /> **LeetCode** | [Visit My Profile](https://leetcode.com/u/_patilpriti_3003/) | **Medium** Solver & Optimizing Complexities |
+| <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat-square&logo=GeeksforGeeks&logoColor=white" /> **GeeksforGeeks** | [Visit My Profile](https://www.geeksforgeeks.org/profile/patilprik12j) | Concept Building & Core Practice |
 
 ---
 
@@ -54,11 +52,11 @@ I am a passionate learning enthusiast and an aspiring engineer who's always up f
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+### 🤝 My Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://medium.com/@patilpriti1930" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
@@ -66,3 +64,4 @@ I am a passionate learning enthusiast and an aspiring engineer who's always up f
 <p align="center">
   <i>"Why does learning even have to stop? duhh! 🧠"</i>
 </p>
+
