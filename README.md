@@ -46,17 +46,18 @@ I am a passionate learning enthusiast and an aspiring engineer who's always up f
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patilpa30&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4EF2D2&icon_color=4EF2D2&text_color=C9D1D9" alt="Priti's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilpa30&theme=dark&hide_border=true&background=0D1117&ring=4EF2D2&fire=4EF2D2&currStreakLabel=C9D1D9" alt="Priti's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patilpa30&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Priti's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilpa30&theme=dark&hide_border=false" alt="Priti's Streak Stats" width="48%" />
 </p>
 
 ---
 
 ### 🤝 My Socials
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patilpa30&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Priti's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilpa30&theme=dark&hide_border=false" alt="Priti's Streak Stats" width="48%" />
+<p align="left">
+  <a href="https://medium.com/@patilpriti1930" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 ---
