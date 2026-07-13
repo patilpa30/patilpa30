@@ -54,10 +54,9 @@ I am a passionate learning enthusiast and an aspiring engineer who's always up f
 
 ### 🤝 My Socials
 
-<p align="left">
-  <a href="https://medium.com/@patilpriti1930" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patilpa30&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Priti's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patilpa30&theme=dark&hide_border=false" alt="Priti's Streak Stats" width="48%" />
 </p>
 
 ---
