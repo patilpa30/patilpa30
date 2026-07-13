@@ -30,6 +30,29 @@ I am a passionate learning enthusiast and an aspiring engineer who's always up f
 
 ---
 
+### 🛠️ My Tech Arsenal
+
+#### 🛡️ Backend & Core Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 🎨 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+#### 🗄️ Databases & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
 ### 🏆 Coding Ecosystem & Metrics
 
 > "Talk is cheap. Show me the code." — Linus Torvalds
@@ -64,4 +87,3 @@ I am a passionate learning enthusiast and an aspiring engineer who's always up f
 <p align="center">
   <i>"Why does learning even have to stop? duhh! 🧠"</i>
 </p>
-
